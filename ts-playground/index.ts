@@ -1,0 +1,1 @@
+let favNumber = 100
